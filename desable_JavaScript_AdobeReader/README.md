@@ -10,4 +10,5 @@ A partir de um script PowerShell podemos executar em massa uma medida simples de
 Cada detalhe conta na proteção contra ameaças digitais. Hoje, destaco a relevância de desativar a execução do JavaScript no Adobe Acrobat Reader, pois os PDFs geralmente contêm scripts nessa linguagem que podem ser usados para:
 
 ⚠️ Exploração por atacantes que buscam executar ações maliciosas;
+
 ⚠️ Execução remota de código através de vulnerabilidades conhecidas no JavaScript.
